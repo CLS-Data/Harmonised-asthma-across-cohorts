@@ -23,7 +23,7 @@
 We welcome user feedback. Please open an issue on GitHub or email **clsdata@ucl.ac.uk**.
 
 ## Authors
-- Narayanan M., Gimeno L., Hardy R.
+- Martina Narayanan, Laura Gimeno, Rebecca Hardy
 
 ## Licence  
 Code: MIT Licence (see `LICENSE`).
